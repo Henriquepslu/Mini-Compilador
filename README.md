@@ -37,6 +37,9 @@ Resultado: 14
 >>> 1.5 + 2.2
 Resultado: 3.7
 
+>>> -3 + 2
+Resultado: -1
+
 >>> sair
 Encerrando compilador...
 
