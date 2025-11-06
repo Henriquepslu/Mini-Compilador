@@ -34,6 +34,9 @@ Resultado: 24
 >>> 2 + 3 * 4
 Resultado: 14
 
+>>> 1.5 + 2.2
+Resultado: 3.7
+
 >>> sair
 Encerrando compilador...
 
